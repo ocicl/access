@@ -4,6 +4,6 @@ A common lisp library to unify access to common dictionary-like data-structures
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/AccelerationNet/access.git |
-| commit  | 1f3440b                                           |
+| commit  | a4f87fc                                           |
 | systems | access                                            |
 |---------+---------------------------------------------------|
